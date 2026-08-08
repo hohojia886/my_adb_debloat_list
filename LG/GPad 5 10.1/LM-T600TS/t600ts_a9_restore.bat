@@ -1,4 +1,3 @@
-
 adb shell cmd package install-existing android.autoinstalls.config.lge.cct
 adb shell cmd package install-existing com.android.LGSetupWizard
 adb shell cmd package install-existing com.android.backupconfirm

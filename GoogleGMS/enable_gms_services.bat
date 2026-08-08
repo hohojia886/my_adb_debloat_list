@@ -33,3 +33,4 @@ adb shell su -c "pm enable com.google.android.gms/com.google.android.gms.icing.p
 adb shell su -c "pm enable com.google.android.gms/com.google.android.gms.update.SystemUpdateGcmTaskService"
 adb shell su -c "pm enable com.google.android.gms/com.google.android.gms.update.SystemUpdateService"
 adb shell su -c "pm enable com.google.android.gms/com.google.android.gms.update.UpdateFromSdCardService"
+pause
