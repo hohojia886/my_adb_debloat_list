@@ -14,12 +14,10 @@ adb shell pm uninstall --user 0 com.android.htmlviewer
 adb shell pm uninstall --user 0 com.android.managedprovisioning
 adb shell pm uninstall --user 0 com.android.printspooler
 adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks
-adb shell pm uninstall --user 0 com.android.rkpdapp
 adb shell pm uninstall --user 0 com.android.stk
 adb shell pm uninstall --user 0 com.android.stk2
 adb shell pm uninstall --user 0 com.android.theme.font.notoserifsource
 adb shell pm uninstall --user 0 com.android.traceur
-adb shell pm uninstall --user 0 com.diotek.sec.lookup.dictionary
 adb shell pm uninstall --user 0 com.facebook.appmanager
 adb shell pm uninstall --user 0 com.facebook.services
 adb shell pm uninstall --user 0 com.facebook.system
@@ -41,7 +39,6 @@ adb shell pm uninstall --user 0 com.microsoft.appmanager
 adb shell pm uninstall --user 0 com.microsoft.skydrive
 adb shell pm uninstall --user 0 com.monotype.android.font.foundation
 adb shell pm uninstall --user 0 com.monotype.android.font.samsungone
-adb shell pm uninstall --user 0 com.nuance.nmc.sihome.metropcs
 adb shell pm uninstall --user 0 com.samsung.InputEventApp
 adb shell pm uninstall --user 0 com.samsung.SMT
 adb shell pm uninstall --user 0 com.samsung.aasaservice
@@ -59,7 +56,6 @@ adb shell pm uninstall --user 0 com.samsung.android.app.updatecenter
 adb shell pm uninstall --user 0 com.samsung.android.app.watchmanagerstub
 adb shell pm uninstall --user 0 com.samsung.android.appseparation
 adb shell pm uninstall --user 0 com.samsung.android.aremoji
-adb shell pm uninstall --user 0 com.samsung.android.aremojieditor
 adb shell pm uninstall --user 0 com.samsung.android.audiomirroring
 adb shell pm uninstall --user 0 com.samsung.android.authfw
 adb shell pm uninstall --user 0 com.samsung.android.bbc.bbcagent
@@ -147,7 +143,6 @@ adb shell pm uninstall --user 0 com.sec.android.autodoodle.service
 adb shell pm uninstall --user 0 com.sec.android.diagmonagent
 adb shell pm uninstall --user 0 com.sec.android.easyMover
 adb shell pm uninstall --user 0 com.sec.android.easyMover.Agent
-adb shell pm uninstall --user 0 com.sec.android.mimage.avatarstickers
 adb shell pm uninstall --user 0 com.sec.android.provider.badge
 adb shell pm uninstall --user 0 com.sec.android.sdhms
 adb shell pm uninstall --user 0 com.sec.android.soagent

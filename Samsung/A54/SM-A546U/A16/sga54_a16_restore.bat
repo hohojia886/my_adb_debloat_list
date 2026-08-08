@@ -14,12 +14,10 @@ adb shell cmd package install-existing --user 0 com.android.htmlviewer
 adb shell cmd package install-existing --user 0 com.android.managedprovisioning
 adb shell cmd package install-existing --user 0 com.android.printspooler
 adb shell cmd package install-existing --user 0 com.android.providers.partnerbookmarks
-adb shell cmd package install-existing --user 0 com.android.rkpdapp
 adb shell cmd package install-existing --user 0 com.android.stk
 adb shell cmd package install-existing --user 0 com.android.stk2
 adb shell cmd package install-existing --user 0 com.android.theme.font.notoserifsource
 adb shell cmd package install-existing --user 0 com.android.traceur
-adb shell cmd package install-existing --user 0 com.diotek.sec.lookup.dictionary
 adb shell cmd package install-existing --user 0 com.facebook.appmanager
 adb shell cmd package install-existing --user 0 com.facebook.services
 adb shell cmd package install-existing --user 0 com.facebook.system
@@ -41,7 +39,6 @@ adb shell cmd package install-existing --user 0 com.microsoft.appmanager
 adb shell cmd package install-existing --user 0 com.microsoft.skydrive
 adb shell cmd package install-existing --user 0 com.monotype.android.font.foundation
 adb shell cmd package install-existing --user 0 com.monotype.android.font.samsungone
-adb shell cmd package install-existing --user 0 com.nuance.nmc.sihome.metropcs
 adb shell cmd package install-existing --user 0 com.samsung.InputEventApp
 adb shell cmd package install-existing --user 0 com.samsung.SMT
 adb shell cmd package install-existing --user 0 com.samsung.aasaservice
@@ -59,7 +56,6 @@ adb shell cmd package install-existing --user 0 com.samsung.android.app.updatece
 adb shell cmd package install-existing --user 0 com.samsung.android.app.watchmanagerstub
 adb shell cmd package install-existing --user 0 com.samsung.android.appseparation
 adb shell cmd package install-existing --user 0 com.samsung.android.aremoji
-adb shell cmd package install-existing --user 0 com.samsung.android.aremojieditor
 adb shell cmd package install-existing --user 0 com.samsung.android.audiomirroring
 adb shell cmd package install-existing --user 0 com.samsung.android.authfw
 adb shell cmd package install-existing --user 0 com.samsung.android.bbc.bbcagent
@@ -147,7 +143,6 @@ adb shell cmd package install-existing --user 0 com.sec.android.autodoodle.servi
 adb shell cmd package install-existing --user 0 com.sec.android.diagmonagent
 adb shell cmd package install-existing --user 0 com.sec.android.easyMover
 adb shell cmd package install-existing --user 0 com.sec.android.easyMover.Agent
-adb shell cmd package install-existing --user 0 com.sec.android.mimage.avatarstickers
 adb shell cmd package install-existing --user 0 com.sec.android.provider.badge
 adb shell cmd package install-existing --user 0 com.sec.android.sdhms
 adb shell cmd package install-existing --user 0 com.sec.android.soagent
